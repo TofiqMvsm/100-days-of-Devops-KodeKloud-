@@ -1,2 +1,2 @@
 # 100-days-of-Devops-KodeKloud-
-I recently have started doing KodeKloud's "100 days of Devops" challange. I will update the report until I finish the all problems. My main purpose is doing the new problem every day and learn at the same time.
+I recently started KodeKloud's '100 Days of DevOps' challenge. I will keep updating this repo as I complete each problem. My main goal is to solve a new problem every day and learn along the way
