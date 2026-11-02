@@ -3,7 +3,7 @@
 ## Task
 A developer named `john` needs temporary access to the Nautilus project.
 
-Create a user named `john` on **App Server 1** (`stapp01`) with an account expiry date of `2027-04-15`. The username must be lowercase.
+Create a user named `john` on **App Server 1** (`stapp01`) with an account expiry date of `2027-04-15`. The username must be lowercase
 
 ## Solution
 
